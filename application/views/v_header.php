@@ -17,8 +17,8 @@ CodeIgniter</h3>
  </hgroup>
  <nav>
  <ul>
-        <li><a href='http://localhost/pustaka-booking/web' ?>”>Home</a></li>
-        <li><a href='http://localhost/pustaka-booking/web/about'?>”>About</a></li>
+        <li><a href='http://localhost/pustaka-booking/web' ?>Home</a></li>
+        <li><a href='http://localhost/pustaka-booking/web/about'?>About</a></li>
  </ul>
  </nav>
  <div class=”clear”></div>
